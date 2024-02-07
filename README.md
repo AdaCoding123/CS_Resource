@@ -1,4 +1,4 @@
-# AI资源列表  
+<h1 style="align:center">AI资源列表  </h1>
 
 ## 目录
 
