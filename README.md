@@ -48,21 +48,24 @@ Tips：代理充值，送ChatGPT使用教程，推荐科学上网工具。
 
 保真，价格可刀，请联系~ QQ: 3670929658
 
-## ACE2005数据集获取
-出ACE2005数据集，官网数据，自己用过~
-
+# ACE2005数据集获取
 **ACE2005数据集简介**
 - ACE2005语料库是语言数据联盟(LDC)发布的由实体，关系和事件注释组成的各种类型的数据，包括英语，阿拉伯语和中文培训数据，目标是开发自动内容提取技术，支持以文本形式自动处理人类语言。
 
-- ACE语料解决了五个子任务的识别：`entities、values、temporal expressions、relations and events`。这些任务要求系统处理文档中的语言数据，然后为每个文档输出有关其中提到或讨论的实体，值，时间表达式，关系和事件的信息。
-
+- ACE语料解决了五个子任务的识别：entities、values、temporal expressions、relations and events。这些任务要求系统处理文档中的语言数据，然后为每个文档输出有关其中提到或讨论的实体，值，时间表达式，关系和事件的信息。
 
 **ACE2005获取**
 - 之前在科研中自己使用过完整的ACE2005数据集，用于实体识别任务。
-![image](https://github.com/AdaCoding123/CS_Resource/assets/72744840/302bb651-4702-4e23-966c-59d18475d3dd)
 
----
+![image](https://github.com/AdaCoding123/CS_Resource/assets/72744840/bf0512bb-83d0-400d-91c2-353e3a5c3459)
 
-更多资料点击👉👉【闲鱼】[https://m.tb.cn/h.5zQ8X8K?tk=hRFtWpnbnTA CZ3458](https://m.tb.cn/h.5zQ8X8K?tk=hRFtWpnbnTA%20CZ3458) 「我在闲鱼发布了【出ACE2005完整数据集，自己做实验用过的！】」
+
+>扣扣滴滴更快哦：3331663031，方便快捷，性价比高！！
+
+更多资料点击👉👉【闲鱼】https://m.tb.cn/h.5zQ8X8K?tk=hRFtWpnbnTA%20CZ3458 「我在闲鱼发布了【出ACE2005完整数据集，自己做实验用过的！】」
 点击链接直接打开
+
+
+
+
 
