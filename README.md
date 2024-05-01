@@ -1,4 +1,4 @@
-<h1 align="center">独家资源集合 </h1>
+<h1 align="center">资源集合 </h1>
 
 # 目录
 
