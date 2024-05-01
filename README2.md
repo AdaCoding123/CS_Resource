@@ -8,6 +8,7 @@
 
 
 >扣扣滴滴更快哦：3331663031
+>保真诚信，低价出！！
 
 
 # Java后端自用最全八股集合
@@ -52,14 +53,10 @@ Java面试题，Java八股文， 2024全新整理 全部是高频面试题
 
 >扣扣滴滴更快哦：3331663031
 
-
-![img](https://img-community.csdnimg.cn/images/ac6b1219a7874e00b7694972a70589b5.jpg "#center=350")
-
-![img](https://img-community.csdnimg.cn/images/67bbc3cca27d400084694760594b24a9.jpg "#center=350")
-
-![img](https://img-community.csdnimg.cn/images/2642e40a2dc4425d8c4e70af85f36803.jpg "#center=600")
-
-![img](https://img-community.csdnimg.cn/images/46ed6cb2d62649399c5fc7467eb2b16e.jpg "#center=500")
+<div align=center><img width="350"  src="https://img-community.csdnimg.cn/images/ac6b1219a7874e00b7694972a70589b5.jpg"/></div>
+<div align=center><img width="350"  src="https://img-community.csdnimg.cn/images/67bbc3cca27d400084694760594b24a9.jpg"/></div>
+<div align=center><img width="600"  src="https://img-community.csdnimg.cn/images/2642e40a2dc4425d8c4e70af85f36803.jpg"/></div>
+<div align=center><img width="500"  src="https://img-community.csdnimg.cn/images/46ed6cb2d62649399c5fc7467eb2b16e.jpg"/></div>
 
 ---
 
