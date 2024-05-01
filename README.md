@@ -1,33 +1,37 @@
 <h1 align="center">计算机资源列表 </h1>
 
-## 目录
+# 目录
 
 - [US虚拟信用卡](#US虚拟信用卡)
 - [提供ChatGPT3.5版本免费永久和4.0版本](#提供ChatGPT成品账号)
 - [ACE2005数据集获取](#ACE2005数据集获取)
 
-## US虚拟信用卡
+# US虚拟信用卡
 当前我找到一个方式，全流程非常流畅，大概 2 分钟以内搞定！(可以放心开卡、充值，目前还可以用，不能用的话，我会及时同步的)
 
 开通虚拟银行卡的网址：
 
 大家可以使用我的邀请链接:https://gpt.fomepay.com/#/pages/login/index?d=47W7US (opens new window)，或者邀请码：47W7US ，这样你能有 88 折优惠，我也有一点返利，大家互利！
 
-![image](https://github.com/CarrieLea/AI_Resource/assets/72744840/c65532dc-096f-45ed-8e12-92ea846c0b8b)
+<img src="https://github.com/CarrieLea/AI_Resource/assets/72744840/c65532dc-096f-45ed-8e12-92ea846c0b8b" width="400px">
+
 
 开的卡是有效期2年的虚拟信用卡，开卡费包含两年年费，算下来70元RMB，一天2 毛钱不到，其它费用无，后续自己订阅产品，用多少充多少。
 
 关键是！！随时可以提现，大家不用担心钱充进去就取不出来了，如果没消费成功，亲测可以秒提现到支付宝：
 
 **关键是这个卡片，不仅可以用来订阅ChatGPT，一些常见的国外付费订阅软件都可以使用，强烈推荐开一个！！！**
+<img src="https://github.com/CarrieLea/AI_Resource/assets/72744840/f9012c60-6183-4c9d-8a61-528ea3620251" width="500px">
 
-![image](https://github.com/CarrieLea/AI_Resource/assets/72744840/f9012c60-6183-4c9d-8a61-528ea3620251)
 
 
-## 提供ChatGPT成品账号
+----
+# 提供ChatGPT成品账号
 包括3.5永久免费和4.0版本
 
-![搜狗截图20240201180026](https://github.com/CarrieLea/AI_Resource/assets/72744840/ffdd4d54-162b-4e6f-a4a8-c36918218214)
+<img src="https://github.com/CarrieLea/AI_Resource/assets/72744840/ffdd4d54-162b-4e6f-a4a8-c36918218214" width="600px">
+
+
 
 技能描述
 基础版20元包含的服务：
@@ -44,10 +48,11 @@
 
 Tips：代理充值，送ChatGPT使用教程，推荐科学上网工具。
 
-在这里插入图片描述
+<img src="https://github.com/AdaCoding123/CS_Resource/assets/72744840/a47390f9-b5a7-4df5-8dc3-d015cfc3bda6" width="400px">
 
-保真，价格可刀，请联系~ QQ: 3670929658
+保真，价格可刀，请联系~ QQ: 3331663031
 
+----
 # ACE2005数据集获取
 **ACE2005数据集简介**
 - ACE2005语料库是语言数据联盟(LDC)发布的由实体，关系和事件注释组成的各种类型的数据，包括英语，阿拉伯语和中文培训数据，目标是开发自动内容提取技术，支持以文本形式自动处理人类语言。
