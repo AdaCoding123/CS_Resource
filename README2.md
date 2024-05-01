@@ -4,7 +4,6 @@
 - [Java后端自用最全八股集合](#Java后端自用最全八股集合)
 - [Java华为机试历年题库](#Java华为机试历年题库)
 - [软件设计师软考中级全部考试资料](#软件设计师软考中级全部考试资料)
-- [中科院计算机考研863真题及答案详解+863补充资料（2015-2020）](#中科院计算机考研863真题及答案详解+863补充资料（2015-2020）)
 
 
 >扣扣滴滴更快哦：3331663031
@@ -82,26 +81,7 @@ Java面试题，Java八股文， 2024全新整理 全部是高频面试题
 <div align=center><img width="500"  src="https://img-community.csdnimg.cn/images/e6ef80e3bb59469989e400d11bcccf86.jpg"/></div>
 
 ----
-# 中科院计算机考研863真题及答案详解+863补充资料（2015-2020）
-[toc](中科院计算机考研863真题及答案详解 + 863补充资料（2015-2020）)
 
-中科院计算机考研863真题及答案详解+863补充资料，包括15年到20年，本人已上岸，分享经验与干货。
-
-**文件形式：压缩包Zip，开箱即用，已整理好。**
-<div align=center><img width="500"  src="https://img-blog.csdnimg.cn/direct/d4f19b508f5047878aadd5fd73dce0fb.png"/></div>
-
-<div align=center><img width="500"  src="https://img-blog.csdnimg.cn/direct/d9eaf7b31d0b43c4b3b16e0ae3a06540.png"/></div>
-
-<div align=center><img width="500"  src="https://img-blog.csdnimg.cn/direct/32c5c8153c164bbba6c401c8288fa1c8.png"/></div>
-
-
->扣扣滴滴更快哦：3331663031，方便快捷，性价比高！！
-
----
->更多资料直接点击👉👉【闲鱼】[https://m.tb.cn/h.5zBFdJy?tk=8yOMWKtPE3L HU9046](https://m.tb.cn/h.5zBFdJy?tk=8yOMWKtPE3L%20HU9046) 「我在闲鱼发布了【中科院计算机考研863真题及答案详解+863补充资料，包括1】」
-点击链接直接打开
-
----
 
 
 
