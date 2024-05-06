@@ -61,7 +61,7 @@
 内容包括：
 `操作系统，计算机网络，Java基础，JUC，并发，垃圾回收等，MySQL，Redis，NGINX，数据结构，分布式，场景设计题`等。
 
-<div align=center><img width="400"  src="https://img-community.csdnimg.cn/images/f221d139f47d4ca493331a6beb16e3db.jpg"/></div>
+<div align=center><img width="200"  src="https://github.com/AdaCoding123/CS_Resource/assets/72744840/e1174aad-bcc8-4971-9414-454aa03b2fb2"/></div>
 
 Java面试题，Java八股文， 2024全新整理 全部是高频面试题
 
